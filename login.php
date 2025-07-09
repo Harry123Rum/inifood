@@ -198,7 +198,7 @@ if ($_POST && isset($_POST['register'])) {
                 </form>
 
                 <div class="auth-footer">
-                    <p>Admin? Login dengan email: admin@recipe.com, password: password</p>
+                    <p>Silahkan masukkan username dan password yang sesuai</p>
                 </div>
             </div>
         </div>
